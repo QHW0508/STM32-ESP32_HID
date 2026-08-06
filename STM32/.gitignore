@@ -1,0 +1,21 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.map
+*.lst
+*.build_log.htm
+
+# dot files
+.vscode/launch.json
+.settings
+.eide/log
+
+# IDE user config (per-machine)
+Project.uvguix.*
+Project.uvoptx
